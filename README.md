@@ -8,4 +8,6 @@ My mother brought home an old orange screen computer and a manual for Quick Basi
 - I currently use Go and Python but have also worked with C/C++, Java, Basic, Ruby, and more
 - I like creating intercommunication systems between devices
 - Currently seeking a new career
-
+<p align="center">
+  <img src="https://api.boot.dev/v1/users/public/298383d9-770e-4584-9ae8-20d2fa576047/thumbnail" >
+</p>
