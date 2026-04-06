@@ -6,6 +6,7 @@ My mother brought home an old orange screen computer and a manual for Quick Basi
 - I'm currently learning more backend development skills on [boot.dev](https://boot.dev)
 - I mainly use Neovim and Zed for development
 - I currently use Go and Python but have also worked with C/C++, Java, Basic, Ruby, and more
+- I'm currently learning Javascript for both backend and frontend development
 - I like creating intercommunication systems between devices
 - Currently seeking a new career
 <p align="center">
